@@ -40,4 +40,4 @@ end
 
 celu = Celular.new
 celu.selecciona_marca
-celu.color_celu
+#celu.color_celu
